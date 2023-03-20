@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akashtiwariat
-- 👀 I’m Software Engineer.
+- 👋 Hi, I’m @akashtiwari
+- 👀 I’m Java Software Engineer at Vinculum group..
 - 🌱 I’m currently learning WEB 3.0 Blockchain Development.
 - 💻 Tech Stack:C,Java 8,RDBMS,NOSQL,SOLIDITY,JAVASCRIPT,HTML,CSS
 - 💞️ I’m looking to collaborate on any interest of to mutual.
