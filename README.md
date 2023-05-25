@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashtiwari
 - 👀 I’m Java Software Engineer at Vinculum group..
 - 🌱 I’m currently learning WEB 3.0 Blockchain Development.
-- 💻 Tech Stack:C,Java 8,RDBMS,NOSQL,SOLIDITY,JAVASCRIPT,HTML,CSS
+- 💻 Tech Stack:Java 8,Hibernate,RDBMS,MySQL,SOLIDITY,JAVASCRIPT,HTML,CSS,jQuery,Ajax,Struts2.0
 - 💞️ I’m looking to collaborate on any interest of to mutual.
 - 📫 How to reach me email:akashtiwariat875.at@outlook.com
 
